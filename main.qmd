@@ -1,7 +1,18 @@
 ---
 title: "Unidad Didáctica Formativa"
 author: "David Domínguez Román"
-format: revealjs
+format: 
+  revealjs:
+    logo: logo.png
+    footer: "David Domínguez Román - Universidad de La Rioja"
+    background-image: hero-background.svg
+    background-size: contain
+    background-opacity: 0.5
+    theme: default
+    controls: true
+    controls-layout: edges
+    controls-tutorial: false
+  
 ---
 
 ## Quarto
