@@ -1,37 +1,68 @@
 ---
-title: "Unidad Didáctica Formativa"
-author: "David Domínguez Román"
+title: "Unidad Didáctica: Gravitación universal"
+author: "2º Bach, Curso 2023-24 - David Domínguez Román"
 format: 
   revealjs:
     logo: logo.png
     footer: "David Domínguez Román - Universidad de La Rioja"
     background-image: hero-background.svg
     background-size: contain
-    background-opacity: 0.5
+    background-opacity: 1
     theme: default
     controls: true
     controls-layout: edges
     controls-tutorial: false
-  
+    transition: fade
+    background-transition: fade
+    callout:
+      appearance: minimal
+      icon: false
 ---
 
-## Quarto
+## Currículum oficial: Comunidad Autónoma de La Rioja {.smaller}
 
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+La presente Unidad Didáctica ***Gravitación universal*** se encuentra encuadrada en el **Decreto 43/2022**, de 21 de julio (BOR Núm. 140 de 21 de julio de 2022), por el que se establece el currículo de **Bachillerato** de la Comunidad Autónoma de La Rioja.
 
-## Bullets
+::: aside
+Saberes básicos: **A: Campo gravitatorio**
+:::
 
-When you click the **Render** button a document will be generated that includes:
+![](imagenes/bor-bach.png){fig-align="center"}
 
--   Content authored with markdown
--   Output from executable code
+## Relación con saberes de otras asignaturas del mismo curso (2º Bach)
 
-## Code
+Ninguna
 
-When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+## Relación con saberes básicos de otros cursos (misma etapa y anteriores)
 
-```{r}
-1 + 1
+- **1º Bach**: Física y Química
+
+  - D. Cinemática: sobre todo el apartado **D.1.: Estática y Dinámica**
+  
+- **4º ESO**: Física y Química
+
+  - D. La interacción
+  
+- **2º y 3º ESO**: Física y Química
+
+  - D. La interacción (en menor medida)
+
+## Esquema resumen {.center}
+
+```{mermaid}
+%%| fig-width: 100%
+%%| fig-align: center
+flowchart LR
+A["`**2ºESO:Física y Química**`"] -->  B["`**3ºESO: Física y Química**`"]
+B --> C["`**4ºESO: Física y Química**`"]
+C --> D["`**1ºBach: Física y Química**`"]
+D -->  E["`**2ºBach: Física**`"]
+A --> F[D. La interacción]
+B --> G[D. La interacción]
+C --> H[D. La interacción]
+D --> I[D. Cinemática]
+E --> J[A. Campo gravitatorio]
 ```
 
+## Contexto
 

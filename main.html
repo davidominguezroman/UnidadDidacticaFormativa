@@ -10,8 +10,8 @@
 <link href="main_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.5.8">
 
-  <meta name="author" content="David Domínguez Román">
-  <title>Unidad Didáctica Formativa</title>
+  <meta name="author" content="2º Bach, Curso 2023-24 - David Domínguez Román">
+  <title>Unidad Didáctica: Gravitación universal</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -320,43 +320,85 @@
       margin-right: 0; 
     }
   </style>
+  <script src="main_files/libs/quarto-diagram/mermaid.min.js"></script>
+  <script src="main_files/libs/quarto-diagram/mermaid-init.js"></script>
+  <link href="main_files/libs/quarto-diagram/mermaid.css" rel="stylesheet">
 </head>
 <body class="quarto-light">
   <div class="reveal">
     <div class="slides">
 
 <section id="title-slide" class="quarto-title-block center">
-  <h1 class="title">Unidad Didáctica Formativa</h1>
+  <h1 class="title">Unidad Didáctica: Gravitación universal</h1>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
 <div class="quarto-title-author-name">
-David Domínguez Román 
+2º Bach, Curso 2023-24 - David Domínguez Román 
 </div>
 </div>
 </div>
 
 </section>
-<section id="quarto" class="slide level2">
-<h2>Quarto</h2>
-<p>Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <a href="https://quarto.org/docs/presentations/" class="uri">https://quarto.org/docs/presentations/</a>.</p>
+<section id="currículum-oficial-comunidad-autónoma-de-la-rioja" class="slide level2 smaller">
+<h2>Currículum oficial: Comunidad Autónoma de La Rioja</h2>
+<p>La presente Unidad Didáctica <strong><em>Gravitación universal</em></strong> se encuentra encuadrada en el <strong>Decreto 43/2022</strong>, de 21 de julio (BOR Núm. 140 de 21 de julio de 2022), por el que se establece el currículo de <strong>Bachillerato</strong> de la Comunidad Autónoma de La Rioja.</p>
+
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagenes/bor-bach.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+<aside><div>
+<p>Saberes básicos: <strong>A: Campo gravitatorio</strong></p>
+</div></aside></section>
+<section id="relación-con-saberes-de-otras-asignaturas-del-mismo-curso-2º-bach" class="slide level2">
+<h2>Relación con saberes de otras asignaturas del mismo curso (2º Bach)</h2>
+<p>Ninguna</p>
 </section>
-<section id="bullets" class="slide level2">
-<h2>Bullets</h2>
-<p>When you click the <strong>Render</strong> button a document will be generated that includes:</p>
+<section id="relación-con-saberes-básicos-de-otros-cursos-misma-etapa-y-anteriores" class="slide level2">
+<h2>Relación con saberes básicos de otros cursos (misma etapa y anteriores)</h2>
 <ul>
-<li>Content authored with markdown</li>
-<li>Output from executable code</li>
+<li><p><strong>1º Bach</strong>: Física y Química</p>
+<ul>
+<li>D. Cinemática: sobre todo el apartado <strong>D.1.: Estática y Dinámica</strong></li>
+</ul></li>
+<li><p><strong>4º ESO</strong>: Física y Química</p>
+<ul>
+<li>D. La interacción</li>
+</ul></li>
+<li><p><strong>2º y 3º ESO</strong>: Física y Química</p>
+<ul>
+<li>D. La interacción (en menor medida)</li>
+</ul></li>
 </ul>
 </section>
-<section id="code" class="slide level2">
-<h2>Code</h2>
-<p>When you click the <strong>Render</strong> button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:</p>
-<div class="cell">
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] 2</code></pre>
+<section id="esquema-resumen" class="slide level2 center">
+<h2>Esquema resumen</h2>
+<div class="cell" data-reveal="true" data-fig-width="100%" data-layout-align="center">
+<div class="cell-output-display">
+<div>
+<p></p><figure class=""><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart LR
+A["`**2ºESO:Física y Química**`"] --&gt;  B["`**3ºESO: Física y Química**`"]
+B --&gt; C["`**4ºESO: Física y Química**`"]
+C --&gt; D["`**1ºBach: Física y Química**`"]
+D --&gt;  E["`**2ºBach: Física**`"]
+A --&gt; F[D. La interacción]
+B --&gt; G[D. La interacción]
+C --&gt; H[D. La interacción]
+D --&gt; I[D. Cinemática]
+E --&gt; J[A. Campo gravitatorio]
+</pre>
+</div>
+<p></p></figure><p></p>
 </div>
 </div>
+</div>
+</section>
+<section id="contexto" class="slide level2">
+<h2>Contexto</h2>
 <div class="quarto-auto-generated-content">
 <p><img src="logo.png" class="slide-logo"></p>
 <div class="footer footer-default">
@@ -520,14 +562,14 @@ David Domínguez Román
         previewLinks: false,
 
         // Transition style (none/fade/slide/convex/concave/zoom)
-        transition: 'none',
+        transition: 'fade',
 
         // Transition speed (default/fast/slow)
         transitionSpeed: 'default',
 
         // Transition style for full page slide backgrounds
         // (none/fade/slide/convex/concave/zoom)
-        backgroundTransition: 'none',
+        backgroundTransition: 'fade',
 
         // Number of slides away from the current that are visible
         viewDistance: 3,
@@ -577,44 +619,6 @@ David Domínguez Román
         ]
       });
     </script>
-    
-    <script>
-      // htmlwidgets need to know to resize themselves when slides are shown/hidden.
-      // Fire the "slideenter" event (handled by htmlwidgets.js) when the current
-      // slide changes (different for each slide format).
-      (function () {
-        // dispatch for htmlwidgets
-        function fireSlideEnter() {
-          const event = window.document.createEvent("Event");
-          event.initEvent("slideenter", true, true);
-          window.document.dispatchEvent(event);
-        }
-
-        function fireSlideChanged(previousSlide, currentSlide) {
-          fireSlideEnter();
-
-          // dispatch for shiny
-          if (window.jQuery) {
-            if (previousSlide) {
-              window.jQuery(previousSlide).trigger("hidden");
-            }
-            if (currentSlide) {
-              window.jQuery(currentSlide).trigger("shown");
-            }
-          }
-        }
-
-        // hookup for slidy
-        if (window.w3c_slidy) {
-          window.w3c_slidy.add_observer(function (slide_num) {
-            // slide_num starts at position 1
-            fireSlideChanged(null, w3c_slidy.slides[slide_num - 1]);
-          });
-        }
-
-      })();
-    </script>
-
     <script id="quarto-html-after-body" type="application/javascript">
     window.document.addEventListener("DOMContentLoaded", function (event) {
       const toggleBodyColorMode = (bsSheetEl) => {
