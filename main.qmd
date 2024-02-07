@@ -80,25 +80,23 @@ UD Gravitación universal, 2ºBach. Curso 2023-24
 .tg th{background-color:#657b83;border-color:#93a1a1;border-style:solid;border-width:0px;color:#fdf6e3;
   font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-5w3z{background-color:#ecf4ff;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-o1fn{background-color:#656565;border-color:inherit;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;
-  vertical-align:top;will-change:transform}
+.tg .tg-q1q4{background-color:#656565;border-color:inherit;color:#ffffff;text-align:center;vertical-align:top}
 .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-ozja{background-color:#ecf4ff;text-align:center;vertical-align:top}
 @media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}</style>
 <div class="tg-wrap"><table class="tg">
 <thead>
   <tr>
-    <th class="tg-o1fn">Sesión</th>
-    <th class="tg-o1fn">Actividades</th>
-    <th class="tg-o1fn">Grupo y<br>lugar</th>
-    <th class="tg-o1fn">Tipo</th>
-    <th class="tg-o1fn">Saberes<br>básicos</th>
-    <th class="tg-o1fn">Comp.<br>esp.</th>
-    <th class="tg-o1fn">Criterios de <br>evaluación</th>
-    <th class="tg-o1fn">Descrip.<br>oper.</th>
-    <th class="tg-o1fn">Tipo eval.</th>
-    <th class="tg-o1fn">Ev.: procedim.</th>
-    <th class="tg-o1fn">Ev.: Instrum.</th>
+    <th class="tg-q1q4">Sesión</th>
+    <th class="tg-q1q4">Actividades</th>
+    <th class="tg-q1q4">Grupo y<br>lugar</th>
+    <th class="tg-q1q4">Tipo</th>
+    <th class="tg-q1q4">Saberes<br>básicos</th>
+    <th class="tg-q1q4">Comp.<br>esp.</th>
+    <th class="tg-q1q4">Criterios de <br>evaluación</th>
+    <th class="tg-q1q4">Descrip.<br>oper.</th>
+    <th class="tg-q1q4">Tipo eval.</th>
+    <th class="tg-q1q4">Ev.: procedim.</th>
+    <th class="tg-q1q4">Ev.: Instrum.</th>
   </tr>
 </thead>
 <tbody>
@@ -120,7 +118,7 @@ UD Gravitación universal, 2ºBach. Curso 2023-24
     <td class="tg-3xi5">10' Exposición<br>profesor</td>
     <td class="tg-3xi5">GG Aula<br>clase</td>
     <td class="tg-3xi5">Desarrollo</td>
-    <td class="tg-3xi5"><span style="font-weight:bold">Leyes momento</span><br><span style="font-weight:bold">planetario</span></td>
+    <td class="tg-3xi5"><span style="font-weight:bold">Leyes movimiento</span><br><span style="font-weight:bold">planetario</span></td>
     <td class="tg-3xi5">1,2,3</td>
     <td class="tg-3xi5"></td>
     <td class="tg-3xi5"></td>
@@ -181,69 +179,69 @@ UD Gravitación universal, 2ºBach. Curso 2023-24
     <td class="tg-3xi5"></td>
   </tr>
   <tr>
-    <td class="tg-ozja"></td>
-    <td class="tg-ozja">10' Exposición<br>profesor</td>
-    <td class="tg-ozja">GG Aula<br>clase</td>
-    <td class="tg-ozja">Desarrollo</td>
-    <td class="tg-ozja"><span style="font-weight:bold">Momento angular</span></td>
-    <td class="tg-ozja">1,2,3</td>
-    <td class="tg-ozja"></td>
-    <td class="tg-ozja"></td>
-    <td class="tg-ozja"></td>
-    <td class="tg-ozja"></td>
-    <td class="tg-ozja"></td>
+    <td class="tg-5w3z"></td>
+    <td class="tg-5w3z">10' Exposición<br>profesor</td>
+    <td class="tg-5w3z">GG Aula<br>clase</td>
+    <td class="tg-5w3z">Desarrollo</td>
+    <td class="tg-5w3z"><span style="font-weight:bold">Momento angular</span></td>
+    <td class="tg-5w3z">1,2,3</td>
+    <td class="tg-5w3z"></td>
+    <td class="tg-5w3z"></td>
+    <td class="tg-5w3z"></td>
+    <td class="tg-5w3z"></td>
+    <td class="tg-5w3z"></td>
   </tr>
   <tr>
-    <td class="tg-ozja"></td>
-    <td class="tg-ozja">10' Resolución<br>ejercicios</td>
-    <td class="tg-ozja"><span style="font-weight:400;font-style:normal">GG Aula</span><br><span style="font-weight:400;font-style:normal">clase</span></td>
-    <td class="tg-ozja">Síntesis</td>
-    <td class="tg-ozja"></td>
-    <td class="tg-ozja">1,2,3,5</td>
-    <td class="tg-ozja">1.2, 3.2, 3.3, 5.1</td>
-    <td class="tg-ozja"></td>
-    <td class="tg-ozja">Formativa</td>
-    <td class="tg-ozja">Preguntas de análisis</td>
-    <td class="tg-ozja"><span style="font-weight:400;font-style:normal">Lista de control,</span><br><span style="font-weight:400;font-style:normal">escala de valoración</span></td>
+    <td class="tg-5w3z"></td>
+    <td class="tg-5w3z">10' Resolución<br>ejercicios</td>
+    <td class="tg-5w3z"><span style="font-weight:400;font-style:normal">GG Aula</span><br><span style="font-weight:400;font-style:normal">clase</span></td>
+    <td class="tg-5w3z">Síntesis</td>
+    <td class="tg-5w3z"></td>
+    <td class="tg-5w3z">1,2,3,5</td>
+    <td class="tg-5w3z">1.2, 3.2, 3.3, 5.1</td>
+    <td class="tg-5w3z"></td>
+    <td class="tg-5w3z">Formativa</td>
+    <td class="tg-5w3z">Preguntas de análisis</td>
+    <td class="tg-5w3z"><span style="font-weight:400;font-style:normal">Lista de control,</span><br><span style="font-weight:400;font-style:normal">escala de valoración</span></td>
   </tr>
   <tr>
-    <td class="tg-ozja"><br>2<br></td>
-    <td class="tg-ozja">15' Exposición<br>profesor</td>
-    <td class="tg-ozja"><span style="font-weight:400;font-style:normal">GG Aula</span><br><span style="font-weight:400;font-style:normal">clase</span></td>
-    <td class="tg-ozja">Desarrollo</td>
-    <td class="tg-ozja"><span style="font-weight:bold">Momento angular</span></td>
-    <td class="tg-ozja">1,2,3</td>
-    <td class="tg-ozja"></td>
-    <td class="tg-ozja"></td>
-    <td class="tg-ozja"></td>
-    <td class="tg-ozja"></td>
-    <td class="tg-ozja"></td>
+    <td class="tg-5w3z"><br>2<br></td>
+    <td class="tg-5w3z">15' Exposición<br>profesor</td>
+    <td class="tg-5w3z"><span style="font-weight:400;font-style:normal">GG Aula</span><br><span style="font-weight:400;font-style:normal">clase</span></td>
+    <td class="tg-5w3z">Desarrollo</td>
+    <td class="tg-5w3z"><span style="font-weight:bold">Momento angular</span></td>
+    <td class="tg-5w3z">1,2,3</td>
+    <td class="tg-5w3z"></td>
+    <td class="tg-5w3z"></td>
+    <td class="tg-5w3z"></td>
+    <td class="tg-5w3z"></td>
+    <td class="tg-5w3z"></td>
   </tr>
   <tr>
-    <td class="tg-ozja"></td>
-    <td class="tg-ozja">7' Resolución<br>ejercicios</td>
-    <td class="tg-ozja"><span style="font-weight:400;font-style:normal">GG Aula</span><br><span style="font-weight:400;font-style:normal">clase</span></td>
-    <td class="tg-ozja">Síntesis</td>
-    <td class="tg-ozja"></td>
-    <td class="tg-ozja">1,2,3,5</td>
-    <td class="tg-ozja">1.2, 3.2, 3.3, 5.1</td>
-    <td class="tg-ozja"></td>
-    <td class="tg-ozja">Formativa</td>
-    <td class="tg-ozja">Preguntas de análisis</td>
-    <td class="tg-ozja"><span style="font-weight:400;font-style:normal">Lista de control,</span><br><span style="font-weight:400;font-style:normal">escala de valoración</span></td>
+    <td class="tg-5w3z"></td>
+    <td class="tg-5w3z">7' Resolución<br>ejercicios</td>
+    <td class="tg-5w3z"><span style="font-weight:400;font-style:normal">GG Aula</span><br><span style="font-weight:400;font-style:normal">clase</span></td>
+    <td class="tg-5w3z">Síntesis</td>
+    <td class="tg-5w3z"></td>
+    <td class="tg-5w3z">1,2,3,5</td>
+    <td class="tg-5w3z">1.2, 3.2, 3.3, 5.1</td>
+    <td class="tg-5w3z"></td>
+    <td class="tg-5w3z">Formativa</td>
+    <td class="tg-5w3z">Preguntas de análisis</td>
+    <td class="tg-5w3z"><span style="font-weight:400;font-style:normal">Lista de control,</span><br><span style="font-weight:400;font-style:normal">escala de valoración</span></td>
   </tr>
   <tr>
-    <td class="tg-ozja"></td>
-    <td class="tg-ozja">3' Asignación tarea</td>
-    <td class="tg-ozja">Indiv.</td>
-    <td class="tg-ozja">Evaluación</td>
-    <td class="tg-ozja"></td>
-    <td class="tg-ozja">1,2,3,5</td>
-    <td class="tg-ozja"><span style="font-weight:400;font-style:normal">1.2, 3.2, 3.3, 5.1</span></td>
-    <td class="tg-ozja"></td>
-    <td class="tg-ozja"></td>
-    <td class="tg-ozja"></td>
-    <td class="tg-ozja"></td>
+    <td class="tg-5w3z"></td>
+    <td class="tg-5w3z">3' Asignación tarea</td>
+    <td class="tg-5w3z">Indiv.</td>
+    <td class="tg-5w3z">Evaluación</td>
+    <td class="tg-5w3z"></td>
+    <td class="tg-5w3z">1,2,3,5</td>
+    <td class="tg-5w3z"><span style="font-weight:400;font-style:normal">1.2, 3.2, 3.3, 5.1</span></td>
+    <td class="tg-5w3z"></td>
+    <td class="tg-5w3z"></td>
+    <td class="tg-5w3z"></td>
+    <td class="tg-5w3z"></td>
   </tr>
 </tbody>
 </table></div>
