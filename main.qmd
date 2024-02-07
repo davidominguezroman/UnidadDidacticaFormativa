@@ -8,8 +8,8 @@ format:
     background-image: hero-background.svg
     background-size: contain
     background-opacity: 1
-    theme: default
     html-table-processing: none
+    theme: default
     controls: true
     controls-layout: edges
     controls-tutorial: false
@@ -249,7 +249,7 @@ UD Gravitación universal, 2ºBach. Curso 2023-24
 </table></div>
 ```
 
-## {.smaller}
+## 
 
 ```{=html}
 <style type="text/css">
