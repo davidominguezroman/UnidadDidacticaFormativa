@@ -9,6 +9,7 @@ format:
     background-size: contain
     background-opacity: 1
     theme: default
+    html-table-processing: none
     controls: true
     controls-layout: edges
     controls-tutorial: false
