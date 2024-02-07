@@ -248,7 +248,7 @@ UD Gravitación universal, 2ºBach. Curso 2023-24
 </table></div>
 ```
 
-## 
+## {.smaller}
 
 ```{=html}
 <style type="text/css">
