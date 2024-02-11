@@ -58,11 +58,9 @@ Saberes básicos: **A: Campo gravitatorio**
 
 - En la UD posterior se profundizará más sobre los conceptos de campo gravitatorio, energía potencial gravitatoria, velocidades órbitales y de escape.
 
-## Grupo de alumnos {.smaller}
+## Grupo de alumnos 
 
 - Dado que la asignatura de Física es optativa, se entiende que el alumado muestra interes por esta, con la mirada puesta en grados medios y/o superiores de FP técnicos (electricidad, electrónica, sonido, automatización,...) y grados universitarios de las ramas de ciencias y tecnología.
-
-- El nivel educativo del alumnado está dentro de la media para la zona geográfica y el curso.
 
 - Son jóvenes de entre 17 y 18 años. Se producen cambios notables y surgen dudas importantes:
 
@@ -72,27 +70,36 @@ Saberes básicos: **A: Campo gravitatorio**
 
   - Preparación para la selectividad o grado superior.
 
+## Grupo de alumnos 
+
 - Esta situación puede producir niveles de estrés altos -> ansiedad, falta de autoestima, sueño de baja calidad, etc.
 
 - Importante: motivar, demostrarles que pueden y que, con una  buena organización, son capaces de superarlo.
 
-## Objetivos de la etapa {.smaller}
+- El nivel educativo del alumnado está dentro de la media para la zona geográfica y el curso.
+
+## Objetivos de la etapa
 
 - **Artículo 7** del Decreto 43/2022, de 21 de julio (BOR Núm. 140 de 22 de julio de 2022) -> (BOE Núm. 82, de 06 de octubre de 2022).
 
-- b \) Consolidar una madurez personal, afectivo-sexual y social que les permita actuar de forma respetuosa, responsable y autónoma y desarrollar su espíritu crítico. Prever, detectar y resolver pacíficamente los conflictos personales, familiares y sociales, así como las posibles situaciones de violencia.
+- b\) Consolidar una madurez personal, afectivo-sexual y social que les permita actuar de forma respetuosa, responsable y autónoma y desarrollar su espíritu crítico. Prever, detectar y resolver pacíficamente los conflictos personales, familiares y sociales, así como las posibles situaciones de violencia.
 
-- c \) Fomentar la igualdad efectiva de derechos y oportunidades de mujeres y hombres, analizar y valorar críticamente las desigualdades existentes, así como el reconocimiento y enseñanza del papel de las mujeres en la historia e impulsar la igualdad real y la no discriminación por razón de nacimiento, sexo, origen racial o étnico, discapacidad, edad, enfermedad, religión o creencias, orientación sexual o identidad de género o cualquier otra condición o circunstancia personal o social.
 
-- d \) Afianzar los hábitos de lectura, estudio y disciplina, como condiciones necesarias para el eficaz aprovechamiento del aprendizaje, y como medio de desarrollo personal.
+## Objetivos de la etapa 
 
-- g \) Utilizar con solvencia y responsabilidad las tecnologías de la información y la comunicación.
+- c\) Fomentar la igualdad efectiva de derechos y oportunidades de mujeres y hombres, analizar y valorar críticamente las desigualdades existentes, así como el reconocimiento y enseñanza del papel de las mujeres en la historia e impulsar la igualdad real y la no discriminación por razón de nacimiento, sexo, origen racial o étnico, discapacidad, edad, enfermedad, religión o creencias, orientación sexual o identidad de género o cualquier otra condición o circunstancia personal o social.
 
-## Objetivos de la etapa (parte2) {.smaller}
+## Objetivos de la etapa
 
-- i \) Acceder a los conocimientos científicos y tecnológicos fundamentales y dominar las habilidades básicas propias de la modalidad elegida.
+- d\) Afianzar los hábitos de lectura, estudio y disciplina, como condiciones necesarias para el eficaz aprovechamiento del aprendizaje, y como medio de desarrollo personal.
 
-- j \) Comprender los elementos y procedimientos fundamentales de la investigación y de los métodos científicos. Conocer y valorar de forma crítica la contribución de la ciencia y la tecnología en el cambio de las condiciones de vida, así como afianzar la sensibilidad y el respeto hacia el medio ambiente.
+- g\) Utilizar con solvencia y responsabilidad las tecnologías de la información y la comunicación.
+
+## Objetivos de la etapa
+
+- i\) Acceder a los conocimientos científicos y tecnológicos fundamentales y dominar las habilidades básicas propias de la modalidad elegida.
+
+- j\) Comprender los elementos y procedimientos fundamentales de la investigación y de los métodos científicos. Conocer y valorar de forma crítica la contribución de la ciencia y la tecnología en el cambio de las condiciones de vida, así como afianzar la sensibilidad y el respeto hacia el medio ambiente.
 
 
 ## Competencias específicas {.smaller}
@@ -103,7 +110,7 @@ Saberes básicos: **A: Campo gravitatorio**
 
 - **Competencia específica 3**: Utilizar el lenguaje de la física con la formulación matemática de sus principios, magnitudes, unidades, ecuaciones, etc., para establecer una comunicación adecuada entre diferentes comunidades científicas y como una herramienta fundamental en la investigación.
 
-## Competencias específicas (parte2){.smaller}
+## Competencias específicas {.smaller}
 
 - **Competencia específica 4**: Utilizar de forma autónoma, eficiente, crítica y responsable recursos en distintos formatos, plataformas digitales de información y de comunicación en el trabajo individual y colectivo para el fomento de la creatividad mediante la producción y el intercambio de materiales científicos y divulgativos que faciliten acercar la física a la sociedad como un campo de conocimientos accesible.
 
@@ -164,7 +171,7 @@ Saberes básicos: **A: Campo gravitatorio**
 
 - **2.2**. Inferir soluciones a problemas generales a partir del análisis de situaciones particulares y las variables de que dependen.
 
-## Criterios de evaluación (parte2){.smaller}
+## Criterios de evaluación {.smaller}
 
 - **3.1**. Aplicar los principios, leyes y teorías científicas en el análisis crítico de procesos físicos del entorno, como los observados y los publicados en distintos medios de comunicación, analizando, comprendiendo y explicando las causas que los producen.
 
@@ -174,9 +181,9 @@ Saberes básicos: **A: Campo gravitatorio**
 
 - **4.1**. Consultar, elaborar e intercambiar materiales científicos y divulgativos en distintos formatos con otros miembros del entorno de aprendizaje, utilizando de forma autónoma y eficiente plataformas digitales.
 
-- **4.2**. Usar de forma crítica, ética y responsable medios de comunicación digitales y tradicionales como modo de enriquecer el aprendizaje y el trabajo individual y colectivo.
+## Criterios de evaluación {.smaller}
 
-## Criterios de evaluación (parte3) {.smaller}
+- **4.2**. Usar de forma crítica, ética y responsable medios de comunicación digitales y tradicionales como modo de enriquecer el aprendizaje y el trabajo individual y colectivo.
 
 - **5.1**. Obtener relaciones entre variables físicas, midiendo y tratando los datos experimentales, determinando los errores y utilizando sistemas de representación gráfica.
 
