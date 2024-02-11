@@ -666,3 +666,8 @@ Oxford Education, Inicia Dual, Física, 2º de Bachillerato, 2016
 
 ISBN: 978-01-905-0258-4
 
+::: {layout-ncol="2"}
+![](imagenes/portada.jpg)
+
+![](imagenes/tema.jpg)
+:::
