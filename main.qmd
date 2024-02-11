@@ -54,9 +54,9 @@ Saberes básicos: **A: Campo gravitatorio**
 
 - Modalidad de Ciencias y Tecnología.
 
-- En esta UD, se realiza una introducción sobre la *Ley de Gravitación Universal* y sus principales propiedades en el movimiento planetario.
+- En esta UD se realiza una introducción sobre la *Ley de Gravitación Universal* y sus principales propiedades en el movimiento planetario.
 
-- En la UD posterior, se profundizará más sobre los conceptos de campo gravitatorio, energía potencial gravitatoria, velocidades órbitales y de escape.
+- En la UD posterior se profundizará más sobre los conceptos de campo gravitatorio, energía potencial gravitatoria, velocidades órbitales y de escape.
 
 ## Grupo de alumnos {.smaller}
 
@@ -64,7 +64,7 @@ Saberes básicos: **A: Campo gravitatorio**
 
 - El nivel educativo del alumnado está dentro de la media para la zona geográfica y el curso.
 
-- Son jóvenes de entre 17 y 18 años, edades en las que se producen cambios notables y surgen dudas importantes:
+- Son jóvenes de entre 17 y 18 años. Se producen cambios notables y surgen dudas importantes:
 
   - Desarrollo del pensamiento lógico y en posibles.
 
@@ -72,9 +72,9 @@ Saberes básicos: **A: Campo gravitatorio**
 
   - Preparación para la selectividad o grado superior.
 
-- Esta situación puede llevar a que acaben teniendo grandes niveles de estrés que puedan dar lugar a ansiedad, falta de autoestima, sueño de baja calidad, etc.
+- Esta situación puede producir niveles de estrés altos -> ansiedad, falta de autoestima, sueño de baja calidad, etc.
 
-- Es importante buscar motivarles, demostrarles que pueden con ello y que, con una organización correcta, son capaces de superarlo.
+- Importante: motivar, demostrarles que pueden y que, con una  buena organización, son capaces de superarlo.
 
 ## Objetivos de la etapa {.smaller}
 
@@ -154,7 +154,7 @@ Saberes básicos: **A: Campo gravitatorio**
 </table></div>
 ```
 
-## Criterios de evaluación 
+## Criterios de evaluación {.smaller}
 
 - **1.1**. Reconocer la relevancia de la física en el desarrollo de la ciencia, la tecnología, la economía, la sociedad y la sostenibilidad ambiental, empleando adecuadamente los fundamentos científicos relativos a esos ámbitos.
 
@@ -212,7 +212,7 @@ Saberes básicos: **A: Campo gravitatorio**
 
   - Introducción a la cosmología y la astrofísica (tratado en una exposición oral, junto con los tres anteriores).
 
-## Metodología {.smaller}
+## Metodología{.smaller}
 
 - **Inicio**:
 
@@ -235,6 +235,8 @@ Saberes básicos: **A: Campo gravitatorio**
   - Resolución de ejercicios de tarea por parte de los alumnos.
 
   - Interacción con los alumnos.
+
+## Metodología (parte2){.smaller}
 
 - **Cierre**:
 
@@ -280,7 +282,7 @@ UD Gravitación universal, 2ºBach. Curso 2023-24
 <tbody>
   <tr>
     <td class="tg-3xi5"></td>
-    <td class="tg-3xi5">10' debate y<br>diálogo</td>
+    <td class="tg-3xi5">10' <br>Debate y<br>diálogo</td>
     <td class="tg-3xi5">GG Aula<br>clase</td>
     <td class="tg-3xi5">Identificar <span style="font-weight:400;font-style:normal">ideas </span><br><span style="font-weight:400;font-style:normal">previas</span></td>
     <td class="tg-3xi5"><span style="font-weight:bold">Todos</span></td>
@@ -293,7 +295,7 @@ UD Gravitación universal, 2ºBach. Curso 2023-24
   </tr>
   <tr>
     <td class="tg-3xi5"></td>
-    <td class="tg-3xi5">25' Exposición<br>profesor</td>
+    <td class="tg-3xi5">25' <br>Exposición<br>profesor</td>
     <td class="tg-3xi5">GG Aula<br>clase</td>
     <td class="tg-3xi5">Desarrollo</td>
     <td class="tg-3xi5"><span style="font-weight:bold">Leyes movimiento</span><br><span style="font-weight:bold">planetario y</span><br><span style="font-weight:bold">momento angular</span></td>
@@ -306,7 +308,7 @@ UD Gravitación universal, 2ºBach. Curso 2023-24
   </tr>
   <tr>
     <td class="tg-3xi5"><br>1<br></td>
-    <td class="tg-3xi5">12' Resolución<br>ejercicios</td>
+    <td class="tg-3xi5">12' <br>Resolución<br>ejercicios</td>
     <td class="tg-3xi5">GG Aula<br>clase</td>
     <td class="tg-3xi5">Síntesis</td>
     <td class="tg-3xi5"></td>
@@ -332,7 +334,7 @@ UD Gravitación universal, 2ºBach. Curso 2023-24
   </tr>
   <tr>
     <td class="tg-5w3z"></td>
-    <td class="tg-5w3z">30' Exposición<br>profesor</td>
+    <td class="tg-5w3z">30' <br>Exposición<br>profesor</td>
     <td class="tg-5w3z">GG Aula<br>clase</td>
     <td class="tg-5w3z">Desarrollo</td>
     <td class="tg-5w3z"><span style="font-weight:bold">Momento angular</span></td>
@@ -345,7 +347,7 @@ UD Gravitación universal, 2ºBach. Curso 2023-24
   </tr>
   <tr>
     <td class="tg-5w3z"><br>2<br></td>
-    <td class="tg-5w3z">15' Resolución<br>ejercicios</td>
+    <td class="tg-5w3z">15' <br>Resolución<br>ejercicios</td>
     <td class="tg-5w3z"><span style="font-weight:400;font-style:normal">GG Aula</span><br><span style="font-weight:400;font-style:normal">clase</span></td>
     <td class="tg-5w3z">Síntesis</td>
     <td class="tg-5w3z"></td>
@@ -358,7 +360,7 @@ UD Gravitación universal, 2ºBach. Curso 2023-24
   </tr>
   <tr>
     <td class="tg-5w3z"></td>
-    <td class="tg-5w3z">5' Asignación tarea</td>
+    <td class="tg-5w3z">5' <br>Asignación tarea</td>
     <td class="tg-5w3z">Indiv.</td>
     <td class="tg-5w3z">Evaluación</td>
     <td class="tg-5w3z"></td>
